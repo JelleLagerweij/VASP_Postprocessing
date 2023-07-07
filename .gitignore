@@ -1,0 +1,24 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.vsidx
+*.lock
+*.wsuo
+*.json
+*.sqlite
+*__pycache__*
+
+# Keeping out large VASP files
+*CHRCAR
+*CHR
+*EIGENVAL
+*HILLSPOT
+*OUTCAR
+*WAVECAR
+*vasprun.xml
+*OSZICAR
+*slurm*
+*XDATCAR
+*REPORT
+*ML_LOGFILE
