@@ -10,7 +10,6 @@ import pandas as pd
 import scipy as sp
 import re
 import scipy.constants as co
-
 import matplotlib.pyplot as plt
 import freud
 
